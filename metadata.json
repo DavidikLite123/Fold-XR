@@ -1,0 +1,6 @@
+{
+  "name": "FoldXR OS",
+  "description": "Пространственная WebXR-оболочка для смартфонов (Samsung Fold) и XR-устройств: меню приложений как в Vision Pro и Android XR, свайп пальцем, отслеживание рук, перетаскиваемые 3D-окна, браузер и игры.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
